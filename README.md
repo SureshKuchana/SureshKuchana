@@ -8,7 +8,7 @@ I'm a Passionate Software Engineer with many interests, especially in Web Develo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" height="50px"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50px" height="50px"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="50px" height="50px"/>
 
 ---
-- 🌱 I’m currently learning React Native and TypeScript
+- 🌱 I’m currently learning Python & React Native
 
 <!--
 **SureshKuchana/SureshKuchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
